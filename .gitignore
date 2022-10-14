@@ -1,0 +1,5 @@
+node_modules
+qwik-app/node_modules
+qwik-app/dist
+qwik-app/server
+.DS_Store
